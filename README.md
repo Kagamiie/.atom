@@ -1,5 +1,4 @@
 # .Soda🥤
-============
 [![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-0.0.1-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-offline-green.svg)](https://igorantun.com/chat)
 
 Here are a lot of projects on Ubuntu I want to do/want to do, nothing is finished yet.
