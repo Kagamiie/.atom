@@ -9,7 +9,7 @@ Here are a lot of projects on Ubuntu I want to do/want to do, nothing is finishe
 ---
 ## Buy me a soda
 
-Whether you use this project, have learned something from it, or just like it, please consider <a href="https://www.patreon.com/kagamiie" target="_blank"supporting it by buying me a soda">, so I can dedicate more time on open-source projects like this :)
+Whether you use this project, have learned something from it, or just like it, please consider [supporting it by buying](https://github.com/Kagamiie/.atom/blob/main/LICENSE.md) me a soda, so I can dedicate more time on open-source projects like this :)
 
 
 ---
