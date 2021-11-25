@@ -9,9 +9,8 @@ Here are a lot of projects on Ubuntu I want to do/want to do, nothing is finishe
 ---
 ## Buy me a soda
 
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a soda, so I can dedicate more time on open-source projects like this :)
+Whether you use this project, have learned something from it, or just like it, please consider <a href="https://www.patreon.com/kagamiie" target="_blank"supporting it by buying me a soda">, so I can dedicate more time on open-source projects like this :)
 
-<a href="https://www.patreon.com/kagamiie" target="_blank"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/153/cup-with-straw_1f964.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ---
 
@@ -50,6 +49,6 @@ To give yourself administrator permissions on the chat, you will have to type `/
 ---
 
 ## License
-You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
+You can check out the full license [here](https://github.com/Kagamiie/.atom/blob/main/LICENSE.md)
 
 This project is licensed under the terms of the **MIT** license.
