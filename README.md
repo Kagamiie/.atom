@@ -1,9 +1,8 @@
 # .Soda🥤
 <!--[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-0.0.1-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-offline-green.svg)](https://igorantun.com/chat)-->
 
-Here are a lot of projects on Ubuntu I want to do/want to do, nothing is finished yet.
+Here are a lot of projects on Linux/Win I want to do/want to do, nothing is finished yet.
 
-![Chat Preview](https://cdn.freelogovectors.net/wp-content/uploads/2016/12/ubuntu_logo.png)
 
 ---
 ## Buy me a soda
